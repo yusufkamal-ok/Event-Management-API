@@ -116,13 +116,12 @@
   - Deskripsi: Update partisipan berdasarkan id partisipan yang ingin di edit
   - Request Body:
     ```json
-    {
+    
     {
         "full_name" : "nama participant",
         "address_person" : "alamat participant",
         "status" : "pending",
         "ticket_ids": [1, 2]
-    }
     }
     
 - **DELETE** `/person/:id`
