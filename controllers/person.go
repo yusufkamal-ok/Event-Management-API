@@ -3,9 +3,9 @@ package controllers
 
 import (
     "github.com/gin-gonic/gin"
-    "event_api/database"
-    "event_api/repository"
-    "event_api/structs"
+    "Event-Management-API/database"
+    "Event-Management-API/repository"
+    "Event-Management-API/structs"
     "net/http"
     "strconv"
 )

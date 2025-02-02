@@ -3,7 +3,7 @@ package repository
 
 import (
     "database/sql"
-    "event_api/structs"
+    "Event-Management-API/structs"
     "fmt"
 )
 

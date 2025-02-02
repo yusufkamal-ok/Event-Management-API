@@ -5,9 +5,9 @@ import (
     "fmt"
     "github.com/gin-gonic/gin"
     "github.com/joho/godotenv"
-    "event_api/controllers"
-    "event_api/database"
-    "event_api/middleware"
+    "Event-Management-API/controllers"
+    "Event-Management-Api/database"
+    "Event-Management-Api/middleware"
     "os"
 
     _ "github.com/lib/pq"

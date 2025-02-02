@@ -2,10 +2,10 @@ package controllers
 
 import (
     "github.com/gin-gonic/gin"
-    "event_api/database"
-    "event_api/repository"
-    "event_api/structs"
-	"event_api/middleware"
+    "Event-Management-API/database"
+    "Event-Management-API/repository"
+    "Event-Management-API/structs"
+	"Event-Management-API/middleware"
     "net/http"
     "fmt"
 )
