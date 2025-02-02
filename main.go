@@ -6,8 +6,7 @@ import (
     "github.com/gin-gonic/gin"
     "github.com/joho/godotenv"
     "Event-Management-API/controllers"
-    "Event-Management-Api/database"
-    "Event-Management-Api/middleware"
+    "Event-Management-API/database"
     "os"
 
     _ "github.com/lib/pq"

@@ -1,4 +1,4 @@
-module Event-Management-Api
+module Event-Management-API
 
 go 1.23.4
 
